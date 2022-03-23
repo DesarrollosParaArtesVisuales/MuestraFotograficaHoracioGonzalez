@@ -1,3 +1,4 @@
-# Luz Convergente
+# HORACIO GONZÁLEZ
+Muestra fotográfica
 
-https://desarrollosparaartesvisuales.github.io/LuzConvergenteFotografiaDigitalUNGS2021/index.html#img1
+https://desarrollosparaartesvisuales.github.io/MuestraFotograficaHoracioGonzalez/
